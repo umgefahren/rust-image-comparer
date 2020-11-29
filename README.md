@@ -12,7 +12,7 @@ Change to the directory 'image_comparison'
 Run:
    cargo build --release
 ### Result
-The result can now be found in 'image_comparison/target/release/image_comparison
+The result can now be found in 'image_comparison/target/release/image_comparison'
 
 ## Usage
 The following three Arguments have to be passed:
